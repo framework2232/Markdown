@@ -1,14 +1,15 @@
 <p align="center">
     <img src="https://github.com/framework2232/framework2232.github.io/blob/master/banner.png?raw=true" alt="Framework2232 Logo" width="500"/>
 </p>
+<h1 align=center>MARKDOWN</h1>
 
-# MARKDOWN
 
 [__Twitter__][Twitter]
 | [__Instagram__][Instagram]
 | [__YouTube__][YouTube]
 | [__GitHub__][GitHub]
 | [__Pinterest__][Pinterest]
+
 
 #### _A Collection of Markdown Scripts_
 
@@ -34,6 +35,15 @@ and [__YouTube__][youtube]
 <!-- Links as variables -->
 [twitter]: https://www.twitter.com
 [youtube]: https://www.youtube.com
+```
+
+---
+## Markdown Images
+```Markdown
+![image here][logo]
+
+<!-- Images as variables -->
+[logo]: https://github.com/framework2232/framework2232.github.io/raw/master/logo.png
 ```
 
 ---
